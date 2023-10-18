@@ -1,0 +1,63 @@
+[
+    {
+      "building_id": "3b9d5340-592d-11ed-9214-5f7444821e86",
+      "name": "Building A",
+      "floors": 5,
+      "location": "New York, NY"
+    },
+    {
+      "building_id": "97ee19a4-592d-11ed-9214-5f7444821e86",
+      "name": "Building B",
+      "floors": 10,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "building_id": "a7a6a1f0-592d-11ed-9214-5f7444821e86",
+      "name": "Building C",
+      "floors": 7,
+      "location": "Chicago, IL"
+    },
+    {
+      "building_id": "b45e206e-592d-11ed-9214-5f7444821e86",
+      "name": "Building D",
+      "floors": 12,
+      "location": "San Francisco, CA"
+    },
+    {
+      "building_id": "c0dd324c-592d-11ed-9214-5f7444821e86",
+      "name": "Building E",
+      "floors": 3,
+      "location": "Miami, FL"
+    },
+    {
+      "building_id": "c9b69fe2-592d-11ed-9214-5f7444821e86",
+      "name": "Building F",
+      "floors": 8,
+      "location": "Houston, TX"
+    },
+    {
+      "building_id": "d72f5550-592d-11ed-9214-5f7444821e86",
+      "name": "Building G",
+      "floors": 6,
+      "location": "Seattle, WA"
+    },
+    {
+      "building_id": "de5a8f0e-592d-11ed-9214-5f7444821e86",
+      "name": "Building H",
+      "floors": 4,
+      "location": "Boston, MA"
+    },
+    {
+      "building_id": "e722b22e-592d-11ed-9214-5f7444821e86",
+      "name": "Building I",
+      "floors": 15,
+      "location": "Denver, CO"
+    },
+    {
+      "building_id": "ec3c4e76-592d-11ed-9214-5f7444821e86",
+      "name": "Building J",
+      "floors": 9,
+      "location": "Atlanta, GA"
+    }
+  ]
+  
