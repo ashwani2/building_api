@@ -62,6 +62,8 @@ In a production-ready version, several improvements and features should be consi
 7. **LOCAL_URL**:http://localhost:5000
 7. **SEED FILE**:use the seeder file to put some data in your database using command `node seeder -i` and delete the db with `node seeder -d`
 9. **Start the Server in devlopment environment**: `npm run dev`
+10. **Run test cases**: `npm run test`
+
 
 ## Spec Compliance and Time Spent
 
